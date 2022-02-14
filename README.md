@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Rafael
-- Final year Computer Science student at a UK university.
+- 🎓 Final year Computer Science student at a UK university.
 - 👀 I’m interested in Machine Learning, Python programming, iOS development and Full Stack development, whilst being open to any other subjects in which I could expand my skills.
 - 🌱 I’m continuously learning more about native iOS development, Python and its machine learning libraries.
 
