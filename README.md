@@ -4,7 +4,6 @@
 
 ## 📫 Contact me
 - Send me a message on [LinkedIn](https://www.linkedin.com/in/rdmar)
-- I am [rafaelrod007](https://www.instagram.com/rafaelrod007/) on Instagram, DM me as an alternative if you prefer to.
 
 <!---
 rrod007/rrod007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
